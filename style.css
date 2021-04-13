@@ -342,22 +342,22 @@ header.sticky ul li a{
         color: #fff;
         font-size: 24px;
         margin: 10px;
-        filter: invert(35%);
+        filter: invert(100%);
         
     }
     .toggle{
         width: 40px;
         height: 40px;
-        background: url(menu.png) ;
+        background: url(image/menu.png) ;
         background-position: center;
         background-repeat: no-repeat;
         background-size: 30px;
         cursor: pointer;
-        filter: invert(35%);
+        filter: invert(100%);
     }
 
     .toggle.active{
-        background: url(close.png) ;
+        background: url(image/close.png) ;
         background-position: center;
         background-repeat: no-repeat;
         background-size: 25px;
